@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre3 r22311"
+   sodipodi:docname="linkedsteps.svg"
+   inkscape:export-filename="/Users/jason/Desktop/linkedsteps.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path3943"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3925"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3141"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="270.53417"
+     inkscape:cy="886.80006"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1161"
+     inkscape:window-height="852"
+     inkscape:window-x="242"
+     inkscape:window-y="62"
+     inkscape:window-maximized="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="false"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-nodes="false"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect2816"
+       width="487"
+       height="184"
+       x="57"
+       y="32.362183" />
+    <text
+       id="text3800"
+       y="49.362183"
+       x="64"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       xml:space="preserve"><tspan
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Helvetica"
+         y="49.362183"
+         x="64"
+         sodipodi:role="line"
+         id="tspan2918">WalkPrimitive</tspan></text>
+    <g
+       id="g3821"
+       transform="translate(1,94)" />
+    <rect
+       style="fill:#dcdcdc;fill-opacity:1;stroke:none"
+       id="rect3850"
+       width="453"
+       height="67"
+       x="74.747803"
+       y="66.362183" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       x="109.91919"
+       y="86.581421"
+       id="text3852"><tspan
+         sodipodi:role="line"
+         id="tspan3854"
+         x="109.91919"
+         y="86.581421"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Helvetica">LeftFoot</tspan></text>
+    <g
+       id="g2979"
+       transform="translate(46.0001,0)">
+      <rect
+         style="fill:#71ace4;fill-opacity:1;stroke:none"
+         id="rect3996"
+         width="66"
+         height="20"
+         x="109"
+         y="-118.36218"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="128.9248"
+         y="112.36218"
+         id="text3998"><tspan
+           sodipodi:role="line"
+           id="tspan4000"
+           x="128.9248"
+           y="112.36218"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica">First</tspan></text>
+    </g>
+    <g
+       id="g2984"
+       transform="translate(44.974465,0)">
+      <rect
+         transform="scale(1,-1)"
+         y="-118.36218"
+         x="183.05127"
+         height="20"
+         width="66"
+         id="rect4004"
+         style="fill:#71ace4;fill-opacity:1;stroke:none" />
+      <text
+         id="text4006"
+         y="112.36218"
+         x="196.90869"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica"
+           y="112.36218"
+           x="196.90869"
+           id="tspan4008"
+           sodipodi:role="line">Follow</tspan></text>
+    </g>
+    <g
+       id="g3002"
+       transform="translate(43.948831,0)">
+      <rect
+         style="fill:#71ace4;fill-opacity:1;stroke:none"
+         id="rect4012"
+         width="66"
+         height="20"
+         x="257.10254"
+         y="-118.36218"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="268.3584"
+         y="112.36218"
+         id="text4014"><tspan
+           sodipodi:role="line"
+           id="tspan4016"
+           x="268.3584"
+           y="112.36218"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica">Normal</tspan></text>
+    </g>
+    <g
+       id="g3010"
+       transform="translate(45.077004,0)">
+      <rect
+         transform="scale(1,-1)"
+         y="-118.36218"
+         x="329"
+         height="20"
+         width="66"
+         id="rect4020"
+         style="fill:#71ace4;fill-opacity:1;stroke:none" />
+      <text
+         id="text4022"
+         y="112.36218"
+         x="344.74707"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica"
+           y="112.36218"
+           x="344.74707"
+           id="tspan4024"
+           sodipodi:role="line">FStop</tspan></text>
+    </g>
+    <g
+       id="g3018"
+       transform="translate(46.0001,-1)">
+      <rect
+         transform="scale(1,-1)"
+         y="-119.36218"
+         x="401.10254"
+         height="20"
+         width="66"
+         id="rect2955"
+         style="fill:#71ace4;fill-opacity:1;stroke:none" />
+      <text
+         id="text2957"
+         y="113.36218"
+         x="415.70117"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica"
+           y="113.36218"
+           x="415.70117"
+           id="tspan2959"
+           sodipodi:role="line">NStop</tspan></text>
+    </g>
+    <rect
+       y="138.36218"
+       x="74.747803"
+       height="67"
+       width="453"
+       id="rect3069"
+       style="fill:#dcdcdc;fill-opacity:1;stroke:none" />
+    <text
+       id="text3071"
+       y="158.58142"
+       x="115.19653"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Helvetica"
+       xml:space="preserve"><tspan
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;font-family:Sans;-inkscape-font-specification:Helvetica"
+         y="158.58142"
+         x="115.19653"
+         id="tspan3073"
+         sodipodi:role="line">RightFoot</tspan></text>
+    <g
+       id="g3075"
+       transform="translate(46.0001,72)">
+      <rect
+         transform="scale(1,-1)"
+         y="-118.36218"
+         x="109"
+         height="20"
+         width="66"
+         id="rect3077"
+         style="fill:#71ace4;fill-opacity:1;stroke:none" />
+      <text
+         id="text3079"
+         y="112.36218"
+         x="128.9248"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica"
+           y="112.36218"
+           x="128.9248"
+           id="tspan3081"
+           sodipodi:role="line">First</tspan></text>
+    </g>
+    <g
+       transform="translate(44.974465,72)"
+       id="g3083">
+      <rect
+         style="fill:#71ace4;fill-opacity:1;stroke:none"
+         id="rect3085"
+         width="66"
+         height="20"
+         x="183.05127"
+         y="-118.36218"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="196.90869"
+         y="112.36218"
+         id="text3087"><tspan
+           sodipodi:role="line"
+           id="tspan3089"
+           x="196.90869"
+           y="112.36218"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica">Follow</tspan></text>
+    </g>
+    <g
+       transform="translate(43.948831,72)"
+       id="g3091">
+      <rect
+         transform="scale(1,-1)"
+         y="-118.36218"
+         x="257.10254"
+         height="20"
+         width="66"
+         id="rect3093"
+         style="fill:#71ace4;fill-opacity:1;stroke:none" />
+      <text
+         id="text3095"
+         y="112.36218"
+         x="268.3584"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica"
+           y="112.36218"
+           x="268.3584"
+           id="tspan3097"
+           sodipodi:role="line">Normal</tspan></text>
+    </g>
+    <g
+       transform="translate(45.077004,72)"
+       id="g3099">
+      <rect
+         style="fill:#71ace4;fill-opacity:1;stroke:none"
+         id="rect3101"
+         width="66"
+         height="20"
+         x="329"
+         y="-118.36218"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="344.74707"
+         y="112.36218"
+         id="text3103"><tspan
+           sodipodi:role="line"
+           id="tspan3105"
+           x="344.74707"
+           y="112.36218"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica">FStop</tspan></text>
+    </g>
+    <g
+       transform="translate(46.0001,71)"
+       id="g3107">
+      <rect
+         style="fill:#71ace4;fill-opacity:1;stroke:none"
+         id="rect3109"
+         width="66"
+         height="20"
+         x="401.10254"
+         y="-119.36218"
+         transform="scale(1,-1)" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="415.70117"
+         y="113.36218"
+         id="text3111"><tspan
+           sodipodi:role="line"
+           id="tspan3113"
+           x="415.70117"
+           y="113.36218"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Sans;-inkscape-font-specification:Helvetica">NStop</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 188,118.36218 c 16.8769,30.21848 48.54622,25.631 60.5,52"
+       id="path5113"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.02117968px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 188.01059,171.16245 c 19.51073,-30.64217 51.10295,-29.89215 61.78901,-53.0445"
+       id="path5303"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 270,170.36218 c 19.15521,-45.37122 40.58967,-23.22303 54,-51.5"
+       id="path5491"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9459942px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 269.99873,118.83518 c 20.27484,39.28641 42.30677,26.54448 53.48892,50.57924"
+       id="path5679"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
+       d="m 340.03889,169.86218 c 32.90786,-19.57705 25.06323,-36.40961 -0.5,-52"
+       id="path6055"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path6243"
+       d="m 340.41115,117.92045 c -32.90786,19.57705 -25.56323,36.40961 0,52"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0"
+       d="m 367,169.36218 c 33.10953,-27.01573 82.0419,-25.22682 114,-51"
+       id="path6245"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0"
+       d="m 367,118.36218 c 36.48603,25.436 86.95357,30.23065 114,52"
+       id="path6433"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Lend);stroke-miterlimit:4;stroke-dasharray:1,1;stroke-dashoffset:0"
+       d="m 294,119.36218 c 48.62118,39.71485 104.44659,20.76699 115,51"
+       id="path6621"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1, 1;stroke-dashoffset:0;marker-end:url(#Arrow2Lend)"
+       d="m 293,170.36218 c 30.56277,-38.42626 110.63564,-5.41812 115,-51"
+       id="path6997"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
